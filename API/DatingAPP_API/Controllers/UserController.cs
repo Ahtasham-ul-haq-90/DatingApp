@@ -19,5 +19,12 @@ namespace DatingAPP_API.Controllers
         public async Task<ActionResult<IEnumerable<AppUser>>> Get() { 
         return await _context.Users.ToListAsync();
         }
+        [HttpPost]
+        public async Task<IActionResult> AddNewUser(AppUser user)
+        {
+            _context.Users.Add(user);
+            await _context.SaveChangesAsync();
+            return Ok(user);
+        }
     }
 }
