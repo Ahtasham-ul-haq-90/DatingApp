@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\Ahtasham-practice\\DatingApp\\API\\DatingAPP_API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|d:\\ahtasham-practice\\datingapp\\api\\datingapp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|d:\\ahtasham-practice\\datingapp\\api\\datingapp_api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|d:\\ahtasham-practice\\datingapp\\api\\datingapp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{981598F3-34E7-41D2-9DCA-7CCD1B42FA2D}|DatingAPP_API.csproj|d:\\ahtasham-practice\\datingapp\\api\\datingapp_api\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Ahtasham-practice\\DatingApp\\API\\DatingAPP_API\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\Ahtasham-practice\\DatingApp\\API\\DatingAPP_API\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-04T07:56:39.858Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Extensions\\IdentityServiceExtension.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T17:06:05.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T17:06:05.363Z"
             },
             {
               "$type": "Document",
@@ -124,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ahtasham-practice\\DatingApp\\API\\DatingAPP_API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -132,8 +131,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T13:47:12.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T13:47:12.746Z"
             },
             {
               "$type": "Document",
