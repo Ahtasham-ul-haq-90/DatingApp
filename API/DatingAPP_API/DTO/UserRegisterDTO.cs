@@ -10,7 +10,7 @@ namespace DatingAPP_API.DTO
         [Required(ErrorMessage = "User Name is required")]
         public string UserName { get; set; }
         [Required(ErrorMessage = "Password is required")]
-        
+        [StringLength(8,MinimumLength =4)]
         public string Password { get; set; }
     }
 }
