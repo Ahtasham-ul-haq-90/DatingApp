@@ -1,4 +1,5 @@
 ﻿using DatingAPP_API.Data;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DatingAPP_API.Controllers
@@ -18,7 +19,9 @@ namespace DatingAPP_API.Controllers
             }
             return Ok(user);
         }
+        [Authorize]
         [HttpGet("auth")]
+
         public ActionResult<string> GetSecret() {
             return "secret text";
         }
